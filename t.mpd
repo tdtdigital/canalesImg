@@ -31,6 +31,9 @@
           <S t="8911477019366" d="60060" r="14"/>
         </SegmentTimeline>
       </SegmentTemplate>
+      <Representation id="avc1_600000=6" bandwidth="600000" width="416" height="240" sar="40:39" codecs="avc1.428029"/>
+      <Representation id="avc1_1000000=5" bandwidth="1000000" width="640" height="360" sar="1:1" codecs="avc1.428029"/>
+      <Representation id="avc1_1700000=4" bandwidth="1700000" width="960" height="540" sar="1:1" codecs="avc1.4d4029"/>
       <Representation id="avc1_3000000=3" bandwidth="3000000" width="1280" height="720" sar="1:1" codecs="avc1.4d4029"/>
       <Representation id="avc1_5000000=7" bandwidth="5000000" width="1920" height="1080" sar="1:1" codecs="avc1.64002a"/>
     </AdaptationSet>
